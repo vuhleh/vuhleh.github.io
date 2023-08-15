@@ -4,7 +4,7 @@ title: Experiencia laboral
 description: Actual desempeño laboral
 ---
 
-![IntelCR](https://www.crhoy.com/wp-content/uploads/2017/01/Intel.jpg){: width="250" }
+![IntelCR](https://www.crhoy.com/wp-content/uploads/2017/01/Intel.jpg)
 
 Actualmente, desde enero del presente año (2023) trabajo en Intel Costa Rica como Student Worker en la unidad de negocio OCTO & SATG (Office of the CTO & Software and Advanced Technology Group), en el departamento de Finance Planning & Analytics, específicamente en el equipo de Finance Data & Analytics. Dentro del equipo, me encargo de colaborar con:
 
