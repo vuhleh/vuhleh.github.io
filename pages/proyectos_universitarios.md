@@ -62,6 +62,6 @@ Tecnologías y/o lenguajes de programación utilizados:
 - **Tableau.**
 
 &nbsp;
-##### Otros lenguajes de programación aprendidos:
+#### Otros lenguajes de programación aprendidos:
 - Python, C, JavaScript.
 
