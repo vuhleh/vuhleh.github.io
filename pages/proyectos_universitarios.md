@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Making a personal site
-description: How to make a personal web page with GitHub Pages
+title: Experiencia académica
+description: Proyectos universitarios relevantes
 ---
 
 En la presente página se detallan los cursos más relevantes para el desarrollo académico y profesional de la estudiante, resaltando los proyectos realizados en cada uno y las tecnologías y/o lenguajes de programación aprendidos y utilizados en ellos. 
@@ -60,4 +60,8 @@ Proyectos:
 
 Tecnologías y/o lenguajes de programación utilizados:
 - **Tableau.**
+
+&nbsp;
+##### Otros lenguajes de programación aprendidos:
+- Python, C, JavaScript.
 

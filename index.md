@@ -25,7 +25,7 @@ Programación Orientada a Objetos
 - Diseño de Dashboards
 - Contabilidad Financiera
 
-#### Sobre mí
+##### Sobre mí
 
 Mis intereses profesionales se enfocan en el área de Análisis de Datos y Desarrollo de Software. Y mis intereses personales se centran en leer (especialmente ficción literaria) y ver deportes (Patinaje artístico sobre hielo, Fórmula 1 y Fútbol). 
 
