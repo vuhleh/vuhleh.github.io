@@ -2,16 +2,18 @@
 layout: page
 title: Valeria Fernández Barquero
 tagline: Página Personal
-description: ¡Esta es mi pagina personal!
+description: Esta es mi pagina personal
 ---
 
-[![Linkedin](assets/Linkedin-Logo.png){: width="150" }](https://www.linkedin.com/in/valeria-fern%C3%A1ndez-barquero-286271273)
+[![Linkedin](assets/Linkedin-Logo.png){: width="100" }](https://www.linkedin.com/in/valeria-fern%C3%A1ndez-barquero-286271273)
 
 Entusiasta estudiante avanzada de Administración de Tecnologías de Información en el Instituto Tecnológico de Costa Rica, ansiosa por contribuir al éxito del equipo a través del trabajo en equipo, la atención al detalle y excelentes habilidades organizativas, con una comprensión clara entre la correlación de las herramientas de desarrollo de software y la administración. Motivada a  aprender, crecer y sobresalir en el desarrollo de software. Candidata organizado y confiable exitosa en la gestión y realización de tareas de diversas disciplinas, con una actitud positiva y proactiva mientras busca mantener una posición que ofrezca diversos desafíos profesionales.
 
+Actualmente trabajo en el área de Data & Analytics para Finanzas en Intel Costa Rica, y poseo habilidades en inteligencia de negocios, diseño de dashboards en Tableau y Power BI, conceptos básicos de ánalisis de datos (tablas de hechos y de dimensión, SSAS, SQL, expresiones en DAX y Power Query M, modelos y cubos de datos)
+
 Los cursos más relevantes que he tomado y contribuyen a mi actual crecimiento profesional y académico corresponden a Programación Orientada a Objetos, Diseño de Software, Bases de Datos y Bases de Datos Avanzadas, Inteligencia de Negocios, Diseño de Dashboards y Contabilidad Financiera.
 
-Mis intereses se centran en leer (especialmente ficción literaria) y ver deportes (Patinaje artístico sobre hielo, Fórmula 1 y Fútbol). 
+Mis intereses profesionales se enfocan en el área de Análisis de Datos y Desarrollo de Software. Y mis intereses personales se centran en leer (especialmente ficción literaria) y ver deportes (Patinaje artístico sobre hielo, Fórmula 1 y Fútbol). 
 
 [![CV](assets/cvlogo.png){: width="50" }](https://drive.google.com/file/d/1Qc25FxFcskg513M_iUKnDqTG_Pbx8flF/view?usp=sharing)
 
