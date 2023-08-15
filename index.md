@@ -17,17 +17,23 @@ Actualmente trabajo en el área de Data & Analytics para Finanzas en Intel Costa
 
 #### Experiencia académica
 
-Los cursos más relevantes que he tomado y contribuyen a mi actual crecimiento profesional y académico corresponden a Programación Orientada a Objetos, Diseño de Software, Bases de Datos y Bases de Datos Avanzadas, Inteligencia de Negocios, Diseño de Dashboards y Contabilidad Financiera.
+Los cursos más relevantes que he tomado y contribuyen a mi actual crecimiento profesional y académico corresponden a:
+Programación Orientada a Objetos
+- Diseño de Software
+- Bases de Datos y Bases de Datos Avanzadas
+- Inteligencia de Negocios
+- Diseño de Dashboards
+- Contabilidad Financiera
 
 #### Sobre mí
 
 Mis intereses profesionales se enfocan en el área de Análisis de Datos y Desarrollo de Software. Y mis intereses personales se centran en leer (especialmente ficción literaria) y ver deportes (Patinaje artístico sobre hielo, Fórmula 1 y Fútbol). 
 
-
-
+&nbsp;
 ### Más información
 
-[Proyectos universitarios](pages/proyectos_universitarios.md)
+- [Actual perfil laboral](pages/experiencia_laboral.md)
+- [Proyectos universitarios](pages/proyectos_universitarios.md)
 
 
 {% comment %}
