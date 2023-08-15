@@ -11,7 +11,7 @@ Entusiasta estudiante avanzada de Administración de Tecnologías de Informació
 
 #### Experiencia profesional
 
-Actualmente trabajo en el área de Data & Analytics para Finanzas en Intel Costa Rica, y poseo habilidades en inteligencia de negocios, diseño de dashboards en Tableau y Power BI, conceptos básicos de ánalisis de datos (tablas de hechos y de dimensión, SSAS, SQL, expresiones en DAX y Power Query M, modelos y cubos de datos)
+Actualmente trabajo en el área de Data & Analytics para Finanzas en Intel Costa Rica, y poseo habilidades en inteligencia de negocios, diseño de dashboards en Tableau y Power BI, conceptos básicos de ánalisis de datos (tablas de hechos y de dimensión, SSAS, SQL, expresiones en DAX y Power Query M, modelos y cubos de datos).
 
 [![CV](assets/cvlogo.png){: width="50" }](https://drive.google.com/file/d/1Qc25FxFcskg513M_iUKnDqTG_Pbx8flF/view?usp=sharing)
 
