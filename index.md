@@ -7,7 +7,7 @@ description: Esta es mi pagina personal
 
 [![Linkedin](assets/Linkedin-Logo.png){: width="100" }](https://www.linkedin.com/in/valeria-fern%C3%A1ndez-barquero-286271273)
 
-Entusiasta estudiante avanzada de Administración de Tecnologías de Información en el Instituto Tecnológico de Costa Rica, ansiosa por contribuir al éxito del equipo a través del trabajo en equipo, la atención al detalle y excelentes habilidades organizativas, con una comprensión clara entre la correlación de las herramientas de desarrollo de software y la administración. Motivada a  aprender, crecer y sobresalir en el desarrollo de software. Candidata organizado y confiable exitosa en la gestión y realización de tareas de diversas disciplinas, con una actitud positiva y proactiva mientras busca mantener una posición que ofrezca diversos desafíos profesionales.
+Entusiasta estudiante avanzada de Administración de Tecnologías de Información en el Instituto Tecnológico de Costa Rica, ansiosa por contribuir al éxito del equipo a través del trabajo en equipo, la atención al detalle y excelentes habilidades organizativas, con una comprensión clara entre la correlación de las herramientas de desarrollo de software y la administración de negocios. Motivada a  aprender, crecer y sobresalir en el desarrollo de software. Candidata organizada y confiable, exitosa en la gestión y realización de tareas de diversas disciplinas, con una actitud positiva y proactiva mientras busca mantener una posición que ofrezca desafíos profesionales.
 
 #### Experiencia profesional
 
