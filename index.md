@@ -5,7 +5,7 @@ tagline: Página Personal
 description: ¡Esta es mi pagina personal!
 ---
 
-[![Linkedin](assets/Linkedin-Logo.png)](https://www.linkedin.com/in/valeria-fern%C3%A1ndez-barquero-286271273)
+[![Linkedin](assets/Linkedin-Logo.png){: width="50" }](https://www.linkedin.com/in/valeria-fern%C3%A1ndez-barquero-286271273)
 
 Entusiasta estudiante avanzada de Administración de Tecnologías de Información en el Instituto Tecnológico de Costa Rica, ansiosa por contribuir al éxito del equipo a través del trabajo en equipo, la atención al detalle y excelentes habilidades organizativas, con una comprensión clara entre la correlación de las herramientas de desarrollo de software y la administración. Motivada a  aprender, crecer y sobresalir en el desarrollo de software. Candidata organizado y confiable exitosa en la gestión y realización de tareas de diversas disciplinas, con una actitud positiva y proactiva mientras busca mantener una posición que ofrezca diversos desafíos profesionales.
 
@@ -13,7 +13,7 @@ Los cursos más relevantes que he tomado y contribuyen a mi actual crecimiento p
 
 Mis intereses se centran en leer (especialmente ficción literaria) y ver deportes (Patinaje artístico sobre hielo, Fórmula 1 y Fútbol). 
 
-[![CV](assets/adobelogo.png)](https://drive.google.com/file/d/1Qc25FxFcskg513M_iUKnDqTG_Pbx8flF/view?usp=sharing)
+[![CV](assets/adobelogo.png){: width="50" }](https://drive.google.com/file/d/1Qc25FxFcskg513M_iUKnDqTG_Pbx8flF/view?usp=sharing)
 
 
 {% comment %}
