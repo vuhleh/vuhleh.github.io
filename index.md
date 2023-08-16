@@ -18,7 +18,7 @@ Actualmente trabajo en el área de Data & Analytics para Finanzas en Intel Costa
 #### Experiencia académica
 
 Los cursos más relevantes que he tomado y contribuyen a mi actual crecimiento profesional y académico corresponden a:
-Programación Orientada a Objetos
+- Programación Orientada a Objetos
 - Diseño de Software
 - Bases de Datos y Bases de Datos Avanzadas
 - Inteligencia de Negocios
